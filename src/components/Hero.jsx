@@ -12,7 +12,7 @@ const Hero = () => {
           type="button"
           onClick={() =>
             window.open(
-              "https://github.com/ChiragG2101/Article-Summarizer-SUMZ-",
+              "https://github.com/ishika07-glitch/Article-Summarizer",
               "_blank"
             )
           }
